@@ -1,0 +1,55 @@
+#banner{
+	width: 100%;
+}
+
+h1{
+	font-size: 70px;
+}
+
+.title{
+	font-size: 40px;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+.image{
+	width: 300px;
+	heigh: 400px;
+}
+
+.text{
+	font-size: 300px;
+}
+
+#cards{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+p{
+	font-size: 30px;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+#Learn{
+	font-size: 25px;
+	text-align: justify;
+	line-height: 25px;
+}
+
+#note{
+	padding: 20px;
+}
+
+h2{
+	font-size: 30px;
+	color: darkred;
+}
+
+#dark{
+	width: 300px;
+	heigh: 400px;
+}
