@@ -1,0 +1,22 @@
+@media screen and (max-width: 900px){
+	body{
+		background-color: lightcoral;
+	}
+}
+
+@media screen and (max-width: 600px){
+	body{
+		background-color: lightgoldenrodyellow;
+	}
+}
+
+#review{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+#accordion {
+	padding: 30px;
+}
